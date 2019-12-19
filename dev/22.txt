@@ -1,2 +1,6 @@
 This is developer test commit
 第一次提交
+This is developer test commit
+第二次提交
+This is developer test commit
+第三次提交 ---dev形成d2
